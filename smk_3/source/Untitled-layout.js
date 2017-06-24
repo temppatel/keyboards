@@ -739,12 +739,11 @@
                 "text": "*Shift*",
                 "width": "160",
                 "sp": "2",
-                "nextlayer": "shift"
+                "nextlayer": "K_Z"
               },
               {
                 "id": "K_Z",
                 "text": "Z",
-                "sp": "8",
                 "nextlayer": "default"
               },
               {
@@ -1025,7 +1024,8 @@
               },
               {
                 "id": "K_Z",
-                "text": "z"
+                "text": "z",
+                "sp": "8"
               },
               {
                 "id": "K_X",

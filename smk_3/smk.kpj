@@ -102,6 +102,14 @@
       <ParentFileID>id_a3c4d5d0b7e91886f03b0aa4475adc51</ParentFileID>
     </File>
     <File>
+      <ID>id_3484ef358e4978442759aa4ad0de4202</ID>
+      <Filename>smkv2.ico</Filename>
+      <Filepath>source\smkv2.ico</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.ico</FileType>
+      <ParentFileID>id_a3c4d5d0b7e91886f03b0aa4475adc51</ParentFileID>
+    </File>
+    <File>
       <ID>id_cfa2c010c600ba646a286d3b42e382dd</ID>
       <Filename>SMKv2.xml</Filename>
       <Filepath>source\SMKv2.xml</Filepath>
