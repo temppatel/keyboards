@@ -1,0 +1,1 @@
+KeymanWeb.KRS(new Stub_Keyboard_smk()); function Stub_Keyboard_smk() {this.KF="smk-2.js";this.KI="Keyboard_smk";this.KN="smkv3";}

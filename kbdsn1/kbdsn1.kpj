@@ -2,6 +2,8 @@
 <KeymanDeveloperProject>
   <Options>
     <BuildPath>$PROJECTPATH\build</BuildPath>
+    <CompilerWarningsAsErrors>False</CompilerWarningsAsErrors>
+    <WarnDeprecatedCode>True</WarnDeprecatedCode>
   </Options>
   <Files>
     <File>
@@ -16,14 +18,6 @@
       </Details>
     </File>
     <File>
-      <ID>id_120022e555c7f37561c5992f3a560546</ID>
-      <Filename>KBDSN1.bmp</Filename>
-      <Filepath>source\KBDSN1.bmp</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.bmp</FileType>
-      <ParentFileID>id_b28c7dcba79af296821fe53e3fb109e3</ParentFileID>
-    </File>
-    <File>
       <ID>id_99cc807c4ad88db899ba667324103a1d</ID>
       <Filename>KBDSN1.kps</Filename>
       <Filepath>source\KBDSN1.kps</Filepath>
@@ -34,6 +28,14 @@
         <Copyright>© 2008 Tavultesoft Pty Ltd</Copyright>
         <Version>1.0</Version>
       </Details>
+    </File>
+    <File>
+      <ID>id_120022e555c7f37561c5992f3a560546</ID>
+      <Filename>KBDSN1.bmp</Filename>
+      <Filepath>source\KBDSN1.bmp</Filepath>
+      <FileVersion></FileVersion>
+      <FileType>.bmp</FileType>
+      <ParentFileID>id_b28c7dcba79af296821fe53e3fb109e3</ParentFileID>
     </File>
     <File>
       <ID>id_6fee497d665952142a713a09bc6eccca</ID>

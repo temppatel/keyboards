@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE visualkeyboard SYSTEM "http://www.tavultesoft.com/keymandev/visualkeyboard.dtd">
+<visualkeyboard>
+  <header>
+    <version>7.0</version>
+    <kbdname>SMK</kbdname>
+    <flags></flags>
+    <ansifont><font name="Guj_Gopika Two" size="12"/></ansifont>
+    <unicodefont><font name="Guj_Gopika Two" size="12"/></unicodefont>
+    <layout></layout>
+    <filename>SMKv2</filename>  </header>
+  <keys>
+    <key vkey="K_1" shift="S" unicode="1" text="±"/>
+    <key vkey="K_QUOTE" shift="S" unicode="1" text="“"/>
+    <key vkey="K_3" shift="S" unicode="1" text="û"/>
+    <key vkey="K_5" shift="S" unicode="1" text="÷"/>
+    <key vkey="K_7" shift="S" unicode="1" text="ê"/>
+    <key vkey="K_QUOTE" shift="" unicode="1" text="”"/>
+    <key vkey="K_9" shift="S" unicode="1" text="š"/>
+    <key vkey="K_0" shift="S" unicode="1" text="à"/>
+    <key vkey="K_8" shift="S" unicode="1" text="æ"/>
+    <key vkey="K_EQUAL" shift="S" unicode="1" text="§"/>
+    <key vkey="K_COMMA" shift="" unicode="1" text=","/>
+    <key vkey="K_HYPHEN" shift="" unicode="1" text="-"/>
+    <key vkey="K_SLASH" shift="" unicode="1" text="¬"/>
+    <key vkey="K_0" shift="" unicode="1" text="ß"/>
+    <key vkey="K_1" shift="" unicode="1" text="°"/>
+    <key vkey="K_2" shift="" unicode="1" text="—"/>
+    <key vkey="K_3" shift="" unicode="1" text="ú"/>
+    <key vkey="K_4" shift="" unicode="1" text="ô"/>
+    <key vkey="K_5" shift="" unicode="1" text="ö"/>
+    <key vkey="K_6" shift="" unicode="1" text="ø"/>
+    <key vkey="K_7" shift="" unicode="1" text="é"/>
+    <key vkey="K_8" shift="" unicode="1" text="å"/>
+    <key vkey="K_9" shift="" unicode="1" text="™"/>
+    <key vkey="K_COLON" shift="S" unicode="1" text="ð"/>
+    <key vkey="K_COLON" shift="" unicode="1" text="ñ"/>
+    <key vkey="K_COMMA" shift="S" unicode="1" text="®"/>
+    <key vkey="K_EQUAL" shift="" unicode="1" text="¦"/>
+    <key vkey="K_PERIOD" shift="S" unicode="1" text="&gt;"/>
+    <key vkey="K_SLASH" shift="S" unicode="1" text="«"/>
+    <key vkey="K_2" shift="S" unicode="1" text="œ"/>
+    <key vkey="K_A" shift="S" unicode="1" text="á"/>
+    <key vkey="K_B" shift="S" unicode="1" text="Ð"/>
+    <key vkey="K_D" shift="S" unicode="1" text="Ë"/>
+    <key vkey="K_E" shift="S" unicode="1" text="ì"/>
+    <key vkey="K_F" shift="S" unicode="1" text="Æ"/>
+    <key vkey="K_G" shift="S" unicode="1" text="¾"/>
+    <key vkey="K_H" shift="S" unicode="1" text="¤"/>
+    <key vkey="K_I" shift="S" unicode="1" text="ä"/>
+    <key vkey="K_J" shift="S" unicode="1" text="Â"/>
+    <key vkey="K_K" shift="S" unicode="1" text="¼"/>
+    <key vkey="K_L" shift="S" unicode="1" text="Û"/>
+    <key vkey="K_M" shift="S" unicode="1" text="ï"/>
+    <key vkey="K_N" shift="S" unicode="1" text="Ç"/>
+    <key vkey="K_O" shift="S" unicode="1" text="î"/>
+    <key vkey="K_P" shift="S" unicode="1" text="Î"/>
+    <key vkey="K_Q" shift="S" unicode="1" text="Ä"/>
+    <key vkey="K_R" shift="S" unicode="1" text="ý"/>
+    <key vkey="K_S" shift="S" unicode="1" text="×"/>
+    <key vkey="K_T" shift="S" unicode="1" text="É"/>
+    <key vkey="K_U" shift="S" unicode="1" text="è"/>
+    <key vkey="K_V" shift="S" unicode="1" text="²"/>
+    <key vkey="K_W" shift="S" unicode="1" text="Ù"/>
+    <key vkey="K_X" shift="S" unicode="1" text="Ý"/>
+    <key vkey="K_Y" shift="S" unicode="1" text="¥"/>
+    <key vkey="K_Z" shift="S" unicode="1" text="Þ"/>
+    <key vkey="K_LBRKT" shift="" unicode="1" text="¡"/>
+    <key vkey="K_BKSLASH" shift="" unicode="1" text="ü"/>
+    <key vkey="K_RBRKT" shift="" unicode="1" text="¨"/>
+    <key vkey="K_6" shift="S" unicode="1" text="ù"/>
+    <key vkey="K_HYPHEN" shift="S" unicode="1" text="_"/>
+    <key vkey="K_BKQUOTE" shift="" unicode="1" text="‘"/>
+    <key vkey="K_A" shift="" unicode="1" text="â"/>
+    <key vkey="K_B" shift="" unicode="1" text="Ï"/>
+    <key vkey="K_C" shift="" unicode="1" text="¿"/>
+    <key vkey="K_D" shift="" unicode="1" text="Ê"/>
+    <key vkey="K_E" shift="" unicode="1" text="ë"/>
+    <key vkey="K_F" shift="" unicode="1" text="Å"/>
+    <key vkey="K_G" shift="" unicode="1" text="½"/>
+    <key vkey="K_H" shift="" unicode="1" text="Ú"/>
+    <key vkey="K_I" shift="" unicode="1" text="ã"/>
+    <key vkey="K_J" shift="" unicode="1" text="Á"/>
+    <key vkey="K_K" shift="" unicode="1" text="»"/>
+    <key vkey="K_L" shift="" unicode="1" text="Ô"/>
+    <key vkey="K_M" shift="" unicode="1" text="Ñ"/>
+    <key vkey="K_N" shift="" unicode="1" text="Ì"/>
+    <key vkey="K_O" shift="" unicode="1" text="í"/>
+    <key vkey="K_P" shift="" unicode="1" text="Í"/>
+    <key vkey="K_Q" shift="" unicode="1" text="Ã"/>
+    <key vkey="K_R" shift="" unicode="1" text="Ó"/>
+    <key vkey="K_S" shift="" unicode="1" text="Ö"/>
+    <key vkey="K_T" shift="" unicode="1" text="È"/>
+    <key vkey="K_U" shift="" unicode="1" text="ç"/>
+    <key vkey="K_V" shift="" unicode="1" text="Õ"/>
+    <key vkey="K_W" shift="" unicode="1" text="Ø"/>
+    <key vkey="K_X" shift="" unicode="1" text="Ü"/>
+    <key vkey="K_Y" shift="" unicode="1" text="Ò"/>
+    <key vkey="K_LBRKT" shift="S" unicode="1" text="¢"/>
+    <key vkey="K_BKSLASH" shift="S" unicode="1" text="þ"/>
+    <key vkey="K_RBRKT" shift="S" unicode="1" text="©"/>
+    <key vkey="K_BKQUOTE" shift="S" unicode="1" text="’"/>
+    <key vkey="K_C" shift="S" unicode="1" text="À"/>
+    <key vkey="K_4" shift="S" unicode="1" text="õ"/>
+    <key vkey="K_PERIOD" shift="" unicode="1" text="."/>
+  </keys>
+</visualkeyboard>
